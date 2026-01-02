@@ -749,3 +749,14 @@ h2.contact.menu-item:before
 
 
 
+
+
+
+
+img[src*="OUTIS.png"] {
+  width: 500px !important; 
+  height: auto !important;
+  max-width: 90% !important;
+  display: block;
+  margin: 0 auto;
+}
